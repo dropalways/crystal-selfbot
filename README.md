@@ -42,7 +42,7 @@ git clone https://github.com/dropalways/crystal-selfbot.git
 
 2. Rename `.env.example` to `.env`
 
-> and put in your [discord token](https://github.com/NotNexuss/Get-Discord-Token) and [groq ai api key](https://console.groq.com/keys)(if you want to use the airespond command)
+and put in your [discord token](https://github.com/NotNexuss/Get-Discord-Token) and [groq ai api key](https://console.groq.com/keys)(if you want to use the airespond command)
 
 3. Install dependicies by running `setup.bat` or using the command below
 
