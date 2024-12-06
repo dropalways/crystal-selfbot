@@ -1,5 +1,7 @@
 # Crystal Selfbot 🎀
 
+![gif](https://raw.githubusercontent.com/dropalways/crystal-selfbot/refs/heads/main/data/gif.gif)
+
 ## Table of Contents :scroll:
 
 - [Installation](#installation)

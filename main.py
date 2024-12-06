@@ -131,10 +131,13 @@ if __name__ == "__main__":
         update_rpc.start()
 
     utils.clear_console()
+    
     if token is None:
         print("no token in .env please put your discord token in .env")
         sys.exit(0)
         
     if groq_api_key is None or groq_api_key == "":
         print("no groq api key in .env airespond wont work")
+        
+
     asyncio.run(main())
