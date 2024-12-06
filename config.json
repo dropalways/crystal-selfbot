@@ -1,0 +1,9 @@
+{
+  "prefix": "!",
+  "rpc": false,
+  "ban_message": "u r ban!!!!!11 i love cute catboys",
+  "kick_message": "u r kick!!!!!11",
+  "whois_api_key": "",
+  "afk_message": "Im AFK atm!!",
+  "delete_timer": 3
+}

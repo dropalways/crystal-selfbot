@@ -1,0 +1,15 @@
+pyfiglet
+discord-rpc.py
+colorama
+uwuify
+discord-webhook
+discord.py-self-embed
+discord.py-self
+requests
+python-dotenv
+nekos.py
+pillow
+pystyle
+aiosqlite
+aiorule34
+groq
